@@ -3,9 +3,8 @@
     "id": "com.h.rycdmf",
     "restype": "quick_app",
     "name": "日语词典(免费版)",
-    "description": "一个涵盖初中高中的日语词典包含高考中考必备日语单词免费版不支持查找功能，不按课本来！！不按课本来！！不按课本来！！制作不易希望可以多多赞助",
+    "description": "一个涵盖初中高中的日语词典包含高考中考必备日语单词免费版不支持查找功能，加入自定义单次功能可以手动输入导入，暂时只支持插件添加，不按课本来！！不按课本来！！不按课本来！！制作不易希望可以多多赞助",
     "preview": [
-      "media/xiaomi_band_10-2026-09-05-21-56-16.png",
       "media/xiaomi_band_10-2026-09-05-21-56-27.png",
       "media/redmi_watch-2026-09-05-14-06-19.png",
       "media/redmi_watch-2026-09-05-14-06-20.png",
@@ -20,7 +19,8 @@
       "media/xiaomi_band-2026-09-05-14-05-48.png",
       "media/xiaomi_band-2026-09-05-14-05-49.png",
       "media/xiaomi_band-2026-09-05-14-06-02.png",
-      "media/xiaomi_band-2026-09-05-14-06-03.png"
+      "media/xiaomi_band-2026-09-05-14-06-03.png",
+      "media/xiaomi_band_10-2026-09-10-12-34-17.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/mmexport1788616446808.jpg",
@@ -40,36 +40,36 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.h.rycdmf.release.jsc.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.h.rycdmf.release.jsc.1.0.3.rpk"
     }
   },
   "ext": {}
